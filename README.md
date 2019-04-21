@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1hW0V-X3W083hcPlCodAcS4uyjskgAqh-?usp=sha
 inspect_ofstar_data.ipynb notebook is provided for visulation of tthe dataset.
 inspect_ofstar_model.ipynb to use the trained model to detect objects of validation dataset.
 
-# Statistics  
+# Statistics and Results
 On Train | O | F | Star ★ | Total  
 --- | --- | --- | --- |--- 
 Ground Truth | 942 | 160 | 177 | 1279 
