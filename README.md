@@ -31,8 +31,8 @@ True Positive | 624 | 108 | 153 | 885
 Recall | 0.6624 | 0.6750 | 0.8644 | 0.6919
 precision | 0.9204 | 0.9818 | 0.9745 | 0.9365 
 
-mAP @ IoU=50: 76.02% 
-Recall @ IoU=50: 69.19%
+mAP @ IoU=50: 76.02%,
+Recall @ IoU=50: 69.19%,
 Precision @ IoU=50 : 93.65%
 
 On Validation | O | F | Star ★ | Total  
@@ -43,9 +43,9 @@ True Positive | 38 | 3 | 11 | 52
 Recall | 0.44 | 0.50 | 0.55 | 0.4643
 precision | 0.70 | 0.75 | 1.00 | 0.7536 
 
-mAP @ IoU= 50: 45.60%
-Recall @ IoU=50: 46.43%
-Precision @ IoU=50 : 75.36%
+mAP @ IoU= 50: 45.60%,
+Recall @ IoU=50: 46.43%,
+Precision @ IoU=50 : 75.36%,
 
 using Mask R-CNN without Masks (Only Bounding Boxes), Results folder has a 3 samples from validation dataset.
 
